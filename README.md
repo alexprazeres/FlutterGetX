@@ -4,7 +4,7 @@ Projeto Flutter pra servir como base inicial.
 
 Estruturado com
 + https://pub.dev/packages/get
-Com ajuda de :
+- Com ajuda de :
 + https://kauemurakami.github.io/getx_pattern/
 
 ## Getting Started
